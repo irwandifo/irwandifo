@@ -1,12 +1,10 @@
-Hi 👋 My name is Kalis Rifo Irwandi
-===================================
-
 BI Developer | Aspiring Data Engineer
 -------------
 
 I’m a BI Developer transitioning to Data Engineering
 
 * 🌍  I'm based in Malang, Indonesia
+* 🖥️  See my portfolio at [datascienceportfol.io/kalisrifo](http://datascienceportfol.io/kalisrifo)
 * ✉️  You can contact me at [kalis.rifo@gmail.com](mailto:kalis.rifo@gmail.com)
 * 🧠  I'm learning Scala
 
