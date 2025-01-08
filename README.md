@@ -6,7 +6,7 @@ I’m a BI Developer transitioning to Data Engineering
 * 🌍  I'm based in Malang, Indonesia
 * 🖥️  See my portfolio at [datascienceportfol.io/kalisrifo](http://datascienceportfol.io/kalisrifo)
 * ✉️  You can contact me at [kalis.rifo@gmail.com](mailto:kalis.rifo@gmail.com)
-* 🧠  I'm learning Scala
+* 🧠  I'm learning Spark
 
 ### Skills
 
