@@ -1,4 +1,4 @@
-![](images/github-header-image.png)
+![](images/github-header.png)
 
  **<h3 align="left">Transitioning from BI Developer to Data Engineer</h3>**
 
