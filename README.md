@@ -1,6 +1,6 @@
 ![](images/github-header-image.png)
 
- **<h3 align="left">On a journey from BI Developer to Data Engineer</h3>**
+ **<h3 align="left">Transitioning from BI Developer to Data Engineer</h3>**
 
 - 💼 I'm currently working on: **GCP Data Platform for Batch Processing**
 - 🌱 I'm currently learning: **Spark**
