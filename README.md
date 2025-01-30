@@ -3,7 +3,7 @@
  **<h3 align="left">Transitioning from BI Developer to Data Engineer</h3>**
 
 - 💼 I'm currently working on: **GCP Data Platform for Batch Processing**
-- 🌱 I'm currently learning: **Spark**
+- 🌱 I'm currently learning: **Spark**, **Java**, **Scala**
 - 📂 Portfolio: **<a href="https://datascienceportfol.io/kalisrifo" target="_blank">datascienceportfol.io/kalisrifo</a>**
 
 **<h3 align="left">Connect with me:</h3>** 
